@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page lists the reading and listening assignments. The listening
+  assignments are from the recordings included with each textbook.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
